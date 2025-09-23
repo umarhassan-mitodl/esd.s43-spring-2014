@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Supply Chain Management"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ]
+  ],
+  "legacy_uid": "9909e0e7-e0b6-3621-46f8-c0a142b6d19b",
+  "instructors": {
+    "content": [
+      "2a06b9c0-af26-41d5-3190-4232b6354b99",
+      "b3414c9f-ebbb-57bd-5286-12cb8abfdeb0",
+      "28d04ef6-a301-9d39-864c-be75dbb3bf09"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9e1606ae-077c-270f-b7f1-f10d3d23d366",
+    "website": "esd-s43-green-supply-chain-management-spring-2014"
+  },
+  "course_title": "Green Supply Chain Management",
+  "course_description": "The half-semester graduate course in Green Supply Chain Management will focus on the fundamental strategies, tools and techniques required to analyze and design environmentally sustainable supply chain systems. Topics covered include: Closed-loop supply chains, reverse logistics systems, carbon footprinting, life-cycle analysis and supply chain sustainability strategy.\n\nClass sessions will combine presentations, case discussions and guest speakers. All students will work on a course-long team project that critically evaluates the environmental supply chain strategy of an industry or a publicly traded company. Grades will be based on class participation, case study assignments and the team project.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.S43",
+  "course_image_thumbnail": {
+    "content": "488b1b49-e63f-3e88-f925-67231ffbaae6",
+    "website": "esd-s43-green-supply-chain-management-spring-2014"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects",
+    "Instructor Insights"
+  ],
+  "site_uid": "f18996de-31ed-4d98-8245-37b127be58e0",
+  "site_short_id": "esd.s43-spring-2014",
+  "site_url_path": "courses/esd-s43-green-supply-chain-management-spring-2014",
+  "title": "Course Metadata"
+}
