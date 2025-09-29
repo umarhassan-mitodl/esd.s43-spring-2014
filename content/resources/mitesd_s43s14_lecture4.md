@@ -4,6 +4,8 @@ description: This resource contains the information regarding Carbon Footprintin
 file: /courses/esd-s43-green-supply-chain-management-spring-2014/fbbfd211bd01c8b4dd70232deb8209eb_MITESD_S43S14_Lecture4.pdf
 file_size: 2147673
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

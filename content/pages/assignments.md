@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides descriptions of the course assignments along with
   supporting files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ Based on Reading 1 in {{% resource_link 6e72c902-52cf-7de8-2298-6b75befbd9af "Re
 
 1.  Why is packaging reduction (in Figure 1) considered a green logistics activity and not a reverse logistics activity? Please add one more example of a "green supply chain management" activity that will not be considered a "reverse logistics" activity.
 2.  For each of the strategic reasons of returns (see Table 4) select one of the five products used during the class discussion (soda can, jackets, laptop, hybrid car, batteries) that you think will illustrate the reason best. Explain why.
-3.  Review the return policy of {{% resource_link "d409593c-e985-4ec1-8fed-8451b1f554eb" "Zappos.com" %}} an online retailer of shoes. Do you think that some of the problems described in the paper will also apply to their business model? Justify your answer.
+3.  Review the return policy of [Zappos.com](http://www.zappos.com/self-service-return-instructions) an online retailer of shoes. Do you think that some of the problems described in the paper will also apply to their business model? Justify your answer.
 
 
 {{< tdclose >}}
