@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding International Reg
 file: /courses/esd-s43-green-supply-chain-management-spring-2014/f1aec9df7c5b1333873e87a9953f5def_MITESD_S43S14_Lecture9.pdf
 file_size: 6310442
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

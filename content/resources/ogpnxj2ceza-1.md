@@ -4,8 +4,6 @@ description: ''
 file: /courses/esd-s43-green-supply-chain-management-spring-2014/500540041e84cc5dd043e71a31c4b6df_OgpNXj2cEzA.pdf
 file_size: 131865
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

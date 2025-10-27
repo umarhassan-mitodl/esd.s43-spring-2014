@@ -9,8 +9,6 @@ description: Environmental NGO, Greenpeace, acted on a protest against Nestle ov
 file: /courses/esd-s43-green-supply-chain-management-spring-2014/488b1b49e63f3e88f92567231ffbaae6_esd-s43s14-th.jpg
 file_size: 13385
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Environmental NGO, Greenpeace, acted on a protest against Nestle over the
     palm oil plantation controversy, which is used as a case study in this course
